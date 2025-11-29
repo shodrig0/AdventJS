@@ -1,0 +1,8 @@
+{
+  "name": "AdventJS",
+  "packageManager": "yarn@4.12.0",
+  "devDependencies": {
+    "prettier": "3.7.2",
+    "typescript": "^5.9.3"
+  }
+}
