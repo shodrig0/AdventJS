@@ -16,5 +16,3 @@ dist
 
 #!.yarn/cache
 .pnp.*
-
-**/02-createFrame.ts
