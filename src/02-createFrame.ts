@@ -46,5 +46,8 @@ function createFrame(names: string[]): string {
     return `${frameTopBot}\n${space}${frameTopBot}`
 }
 
-const frameCreated = createFrame(['a', 'bb', 'ccc', 'dddd'])
-console.log(frameCreated)
+// const frameCreated = createFrame(['a', 'bb', 'ccc', 'dddd'])
+// console.log(frameCreated)
+
+const frameCreated2 = createFrame(['rodrigo', 'poh'])
+console.log(frameCreated2)
